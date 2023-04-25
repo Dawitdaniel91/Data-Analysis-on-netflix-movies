@@ -1,6 +1,6 @@
 # Data-Analysis-on-netflix-movies
 
-The project is focused on the dataset of Netflix's original films released as of June 1st, 2021. The purpose is to see a netflix moivies how its IMDB rating, runtime, its corelation , and the top language used in the movies. In the report we will analysis that the highest IMDB rating, long-running films, the correlation of IMDB and Runtime, Top ten Genre by IMDB score, Top ten movies with the highest Runtime, movies with lowest average IMDB rating, greatest total runtime, in each language used most language and any outlier data in the dataset. The analysis was covered by using a bar, scattered, tables, and other figures to visualize the report.
+The project is focused on the dataset of Netflix's original films released as of June 1st, 2021. The purpose is to see a netflix moivies how its IMDB rating, runtime, its corelation , and the top language used in the movies. In the report we were analysed that the highest IMDB rating, long-running films, the correlation of IMDB and Runtime, Top ten Genre by IMDB score, Top ten movies with the highest Runtime, movies with lowest average IMDB rating, greatest total runtime, in each language used most language and any outlier data in the dataset. The analysis was covered by using a bar, scattered, tables, and other figures to visualize the report.
 
 Source of data: https://www.kaggle.com/code/melihgulum/netflix-exploratory-data-analysis-eda/notebook
 
