@@ -49,11 +49,29 @@ Based on the results,  Documentary is the highest movies shot in english languag
 
 Tha average runtime is 115.79
 
-## Categories
+![image](https://user-images.githubusercontent.com/80365882/234334073-a8579a3c-c608-4ef1-9c64-33913b2e69ec.png)
+
+## VI. Categories
 
 Genre Column
 ![image](https://user-images.githubusercontent.com/80365882/234335047-666230bd-69b7-4bde-b9aa-ed9c2a115576.png)
 
+## VII. Most Languages used in movies
 
-![image](https://user-images.githubusercontent.com/80365882/234334073-a8579a3c-c608-4ef1-9c64-33913b2e69ec.png)
+The top three language in the movies used form datset are English, Hindi and spanish languages.
+
+![image](https://user-images.githubusercontent.com/80365882/234336004-847b703c-ce84-4e7c-95c6-002fc43e37d1.png)
+
+![image](https://user-images.githubusercontent.com/80365882/234336284-6ea38e0e-0f59-4e65-96cc-2890073f7e37.png)
+
+visualize the reulsts with bar graphg. 
+
+![image](https://user-images.githubusercontent.com/80365882/234336363-0bb910db-0d05-4538-b41a-093d37bdaa37.png)
+
+## VIII. Top 10 IMDB Rating
+
+![image](https://user-images.githubusercontent.com/80365882/234336583-81b197df-5d02-44a4-b1b5-2de934948fda.png)
+
+![image](https://user-images.githubusercontent.com/80365882/234336634-628c3979-bdd9-4cc1-bc64-3099dcff622d.png)
+
 
