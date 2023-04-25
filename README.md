@@ -1,6 +1,6 @@
 # Data-Analysis-on-netflix-movies
 
-The project is focused on the dataset of Netflix's original films released as of June 1st, 2021. The purpose is to show that based on the data, which has the highest IMDB rating, long-running films, the correlation of IMDB and Runtime, Top ten Genre by IMDB score, Top ten movies with the highest Runtime, movies with lowest average IMDB rating, greatest total runtime, in each language used most language and any outlier data in the dataset. The analysis was covered using a bar, scattered, tables, and other figures to visualize the report.
+The project is focused on the dataset of Netflix's original films released as of June 1st, 2021. The purpose is to see a netflix moivies how its IMDB rating, runtime, its corelation , and the top language used in the movies. In the report we will analysis that the highest IMDB rating, long-running films, the correlation of IMDB and Runtime, Top ten Genre by IMDB score, Top ten movies with the highest Runtime, movies with lowest average IMDB rating, greatest total runtime, in each language used most language and any outlier data in the dataset. The analysis was covered by using a bar, scattered, tables, and other figures to visualize the report.
 
 Source of data: https://www.kaggle.com/code/melihgulum/netflix-exploratory-data-analysis-eda/notebook
 
@@ -95,7 +95,7 @@ The highest top 10 movies with the runtime
 
 ## XII. Most movies realased
 
-In year which year the most movies released 
+In which year the most movies released 
 
 ![image](https://user-images.githubusercontent.com/80365882/234341753-e72b4eb9-2b0a-419f-8e1e-77650dd25348.png)
 
@@ -109,4 +109,28 @@ Movies Language with lowest average IMDB rating
 
 ![image](https://user-images.githubusercontent.com/80365882/234343390-f619fb5b-9bd4-4d9b-a643-e1bba0fbeb4e.png)
 
+## XIII greates runtime
+
+Top 10 year-Runtime
+
+![image](https://user-images.githubusercontent.com/80365882/234363791-5d844a9a-a6c1-4943-9c9f-f0c3b45d511c.png)
+
+Average of Runtime is 101.61
+
+![image](https://user-images.githubusercontent.com/80365882/234363993-c5ef3518-7b10-4361-85c5-f2c638dc3e93.png)
+
+## XIV. The Genre where each language
+
+Where each language is used the most:
+
+![image](https://user-images.githubusercontent.com/80365882/234364412-502012b9-0743-4261-b4a1-172402f12e87.png)
+
+## XV. Data Outlier
+Below we are looking the runtime to detect the outlier. As we can see below there is one outlier. The Irishman is outlire under the Runtime column.
+
+![image](https://user-images.githubusercontent.com/80365882/234365923-06023854-8325-494a-b793-8ccd0104d8cf.png)
+
+## XVI. Conlusion
+
+we can see form the dataset ,there are English, Hindi and spanish languages , the most used language in the netflix movies. But english language is the top language. Decumenter is th top movies shot among the movies shot in english.Most movies are released in the years of 2019 and 2020.Bengali language was the lowest IMDB rating and the hiest was the ENglish/Ukrania.
 
