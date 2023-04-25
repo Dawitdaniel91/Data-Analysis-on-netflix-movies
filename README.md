@@ -1,6 +1,6 @@
 # Data-Analysis-on-netflix-movies
 
-The project is covered with the dataset of Netflix orginal gilms released as of june 1st 2021. The pursose is to show that based on the data , which has highest IMDB rating , long-running films, the correlation of IMDB and Runtime, Top ten Genre by IMDB score, Top ten movies with the hightest Runtime, movies with lowest average IMDB rating, greatest total runtime, in each language used most language and any outlier data in the dataset. The analysis was covered using bar, scartered and other figures to visulize the report.
+The project is focused on the dataset of Netflix's original films released as of June 1st, 2021. The purpose is to show that based on the data, which has the highest IMDB rating, long-running films, the correlation of IMDB and Runtime, Top ten Genre by IMDB score, Top ten movies with the highest Runtime, movies with lowest average IMDB rating, greatest total runtime, in each language used most language and any outlier data in the dataset. The analysis was covered using a bar, scattered, tables, and other figures to visualize the report.
 
 Source of data: https://www.kaggle.com/code/melihgulum/netflix-exploratory-data-analysis-eda/notebook
 
@@ -73,5 +73,40 @@ visualize the reulsts with bar graphg.
 ![image](https://user-images.githubusercontent.com/80365882/234336583-81b197df-5d02-44a4-b1b5-2de934948fda.png)
 
 ![image](https://user-images.githubusercontent.com/80365882/234336634-628c3979-bdd9-4cc1-bc64-3099dcff622d.png)
+
+## IX. Correlation
+
+Correlation between IMDB score and Runtime
+
+![image](https://user-images.githubusercontent.com/80365882/234340153-90769c61-8bec-465c-b886-98aab10ac8c1.png)
+
+![image](https://user-images.githubusercontent.com/80365882/234340210-260031ee-6ead-4b14-9f6c-295a83cc36e0.png)
+
+## X. Top 10 Genre by IMDB Score
+
+![image](https://user-images.githubusercontent.com/80365882/234340507-f8b023af-cd82-4c93-8764-a899edabd227.png)
+
+## XI. Top 10 Movies with highest Runtime
+
+The highest top 10 movies with the runtime 
+
+![image](https://user-images.githubusercontent.com/80365882/234341422-0df40c9b-0e54-4ebc-8be2-5d04d827f03e.png)
+
+
+## XII. Most movies realased
+
+In year which year the most movies released 
+
+![image](https://user-images.githubusercontent.com/80365882/234341753-e72b4eb9-2b0a-419f-8e1e-77650dd25348.png)
+
+Number of movies relaeased in years 
+
+![image](https://user-images.githubusercontent.com/80365882/234342175-d79c7b67-38d3-4a23-b0c9-8f4726cfa35c.png)
+
+## XIII Lowest average IMDB rating
+
+Movies Language with lowest average IMDB rating 
+
+![image](https://user-images.githubusercontent.com/80365882/234343390-f619fb5b-9bd4-4d9b-a643-e1bba0fbeb4e.png)
 
 
