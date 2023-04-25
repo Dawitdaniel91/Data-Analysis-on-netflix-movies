@@ -132,5 +132,5 @@ Below we are looking the runtime to detect the outlier. As we can see below ther
 
 ## XVI. Conlusion
 
-we can see form the dataset ,there are English, Hindi and spanish languages , the most used language in the netflix movies. But english language is the top language. Decumenter is th top movies shot among the movies shot in english.Most movies are released in the years of 2019 and 2020.Bengali language was the lowest IMDB rating and the hiest was the ENglish/Ukrania.
+Based on the dataset of netflix moives as a year june 1st 2021, English, Hindi and spanish languages are the most used language in the netflix movies. But english language is the top language. Among those moives in engish, Decumentery is th top movies shot.highest movies are released in the years of 2019 and 2020.Bengali language was the lowest IMDB rating and the highest was the ENglish/Ukrania IMDB rating.
 
